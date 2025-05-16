@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "433667619370",
+    "firebase_url": "https://comma-4a4a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "comma-4a4a0",
+    "storage_bucket": "comma-4a4a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433667619370:android:06e258d15dfba431fe6153",
+        "android_client_info": {
+          "package_name": "com.mycompany.twocomma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-vMVM5IbnJBKfIDIgov6BB65CkRhr7_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
